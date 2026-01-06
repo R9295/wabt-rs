@@ -1,4 +1,4 @@
-#include "src/wast-lexer.h"
+#include "src/include/wast-lexer.h"
 #include "src/wast-parser.h"
 #include "src/resolve-names.h"
 

@@ -1,3 +1,4 @@
+use serde::Deserialize;
 #[derive(Deserialize, Debug)]
 pub struct RuntimeValue {
     #[serde(rename = "type")]

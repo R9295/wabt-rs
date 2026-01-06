@@ -3,11 +3,6 @@
 
 #![deny(missing_docs)]
 
-extern crate serde;
-extern crate serde_json;
-extern crate wabt_sys;
-#[macro_use]
-extern crate serde_derive;
 
 use std::collections::HashMap;
 use std::error;
