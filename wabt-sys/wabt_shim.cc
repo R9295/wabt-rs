@@ -1,6 +1,7 @@
-#include "src/include/wast-lexer.h"
-#include "src/wast-parser.h"
-#include "src/resolve-names.h"
+#include "include/wabt/wast-lexer.h"
+#include "include/wabt/wast-parser.h"
+#include "include/wabt/resolve-names.h"
+#include "include/wabt/ir.h"
 
 extern "C" {
 
